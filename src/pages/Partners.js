@@ -12,7 +12,7 @@ const banks = [
   { name: 'State Bank of India', domain: 'sbi.co.in', type: 'PSU Bank', color: '#22409A' },
   { name: 'Bank of Baroda', domain: 'bankofbaroda.in', type: 'PSU Bank', color: '#F07A28' },
   { name: 'Bank of Maharashtra', domain: 'bankofmaharashtra.in', type: 'PSU Bank', color: '#004C98' },
-  { name: 'Union Bank of India', domain: 'UBI', type: 'PSU Bank', color: '#C41E3A' },
+  { name: 'Union Bank of India', domain: 'unionbankofindia.co.in', type: 'PSU Bank', color: '#C41E3A' },
   { name: 'Canara Bank', domain: 'canarabank.com', type: 'PSU Bank', color: '#003087' },
   { name: 'hdfcbank.com Bank', domain: 'hdfcbank.com', type: 'Private Bank', color: '#004C8A' },
   { name: 'ICICI Bank', domain: 'icicibank.com', type: 'Private Bank', color: '#F58220' },
