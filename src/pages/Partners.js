@@ -20,7 +20,7 @@ const banks = [
   { name: 'Kotak Mahindra Bank', domain: 'kotak811.com', type: 'Private Bank', color: '#EF3C2D' },
   { name: 'YES Bank', domain: 'yesbank.in', type: 'Private Bank', color: '#0057A8' },
   { name: 'IndusInd Bank', domain: 'indusind.com', type: 'Private Bank', color: '#4B0082' },
-  { name: 'Federal Bank', domain: 'federalbank.com', type: 'Private Bank', color: '#003366' },
+  { name: 'Federal Bank', domain: 'federalbank.co.in', type: 'Private Bank', color: '#003366' },
   { name: 'Saraswat Bank', domain: 'saraswatbank.com', type: 'Co-op Bank', color: '#2E8B57' },
   { name: 'Cosmos Bank', domain: 'cosmosbank.in', type: 'Co-op Bank', color: '#8B4513' },
   { name: 'Bajaj Finance', domain: 'bajajfinserv.in', type: 'NBFC', color: '#003087' },
